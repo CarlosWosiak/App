@@ -2,7 +2,7 @@
 
 This the repository to the now shutdown PigCI service. It has been replaced by a [standalone gem](https://github.com/PigCI/pig-ci-rails), which solves the problem without a SaaS being required.
 
-The main purpose of this app was is connect to the GitHub API & create Check Suites, which would pass/fail a commit if the test suite reported the memory usage or amount of database requests was higher then expected.
+The main purpose of this app was is connect to the GitHub API & create Check Suites, which would pass/fail a commit if the test suite reported the memory usage or amount of database requests was higher than expected.
 
 Hopefully you find looking through the code useful! If you'd like to get contact me you can find my details on [https://mikerogers.io/](https://mikerogers.io/).
 
